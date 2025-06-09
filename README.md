@@ -1,6 +1,6 @@
-# cursor-like IDE using simple NODE JS script and interacting with an LLM
+# Cursor-like IDE using simple NODE JS script (OpenAI)
 
-## Simple Cursor like application which can create simple projects by taking user input and creates projects with respective files and expectation is that it works end to end.
+##### Simple Cursor like application which can create simple projects by taking user input and creates projects with respective files and expectation is that it works end to end.
 
 ### Apps like weather app, todo app and form submission apps are tested in this project.
 
