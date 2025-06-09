@@ -1,8 +1,8 @@
-# Cursor-like IDE using simple NODE JS script (OpenAI)
+# Cursor-Like: Command-Driven App Creator (NodeJS + OpenAI)
 
-##### Simple Cursor like application which can create simple projects by taking user input and creates projects with respective files and expectation is that it works end to end.
+##### Cursor-Like is an interactive Node.js application that brings the power of natural language and AI to your terminal. Simply describe the project you want to build—such as a weather app, to-do list, or form submission tool—and Cursor-Like will scaffold the complete project structure for you, including HTML, CSS, and JavaScript files. Powered by OpenAI, this tool turns your ideas into ready-to-run code with a single command, making rapid prototyping and learning fast, simple, and fun.
 
-### Apps like weather app, todo app and form submission apps are tested in this project.
+#### Get started by entering your OpenAI API key, then use plain English prompts to create and launch your own projects in seconds.*
 
 ---
 
