@@ -1,11 +1,16 @@
-# cursor-like
+# cursor-like IDE using simple NODE JS script and interacting with an LLM
+
 ## Simple Cursor like application which can create simple projects by taking user input and creates projects with respective files and expectation is that it works end to end.
 
 ### Apps like weather app, todo app and form submission apps are tested in this project.
 
+---
+
 #### The below prompt is an example prompt for the project that is created using our cursor like prompt.
 
-#### Add your OPENAI_API_KEY in the index.js file and then just run -> npm install and npm run dev
+> **Add your OPENAI_API_KEY in the index.js file and then just run:**  
+> `npm install`  
+> `npm run dev`
 
 Enter your query: Create a form submission project with a folder containing HTML, CSS and JS files. The page should contain firstname, lastname, age, gender with Male, Female, and NA dropdown fields and a submit button along with reset button. Submit should mimic real server submission experience with loading icon and success message, reset should clear all values entered by the user and set page to initial state. 
 User wants a form submission project that includes HTML, CSS, and JS files in a folder. The form fields should be firstname, lastname, age, and gender with a dropdown for Male, Female, and NA. There should be submit and reset buttons. Submit should mimic a real server submission with loading icon and success message. Reset should clear all values and reset the page.
